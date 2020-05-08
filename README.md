@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://www.alura.com.br/assets/api/cursos/estatistica-distribuicoes-e-medidas.svg" float="center" width=15%/>
-  <p align="center"><strong align="center">Learning Statistic</strong></p>
+  <p align="center"><strong align="center">Statistic</strong></p>
 </h1>
 
 <br>
